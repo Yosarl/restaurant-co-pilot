@@ -1,0 +1,1 @@
+{"name":"restaurant-co-pilot","version":"1.0.0","description":"Backend for Restaurant Co-Pilot","main":"index.js","scripts":{"test":"jest","start":"node index.js"},"dependencies":{"express":"^4.17.1","mongoose":"^5.10.9","socket.io":"^4.0.0","jsonwebtoken":"^8.5.1"},"devDependencies":{"jest":"^26.6.0"},"author":"Yosarl","license":"MIT"}
